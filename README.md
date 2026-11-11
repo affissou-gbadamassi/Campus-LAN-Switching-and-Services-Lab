@@ -13,5 +13,6 @@ Cisco Packet Tracer portfolio project by Affissou Gbadamassi. The campus topolog
 | [Inter-VLAN Routing](labs/03-inter-vlan-routing/README.md) | Connected routes and reachability across VLANs |
 | [Centralized DHCP](labs/04-dhcp/README.md) | Client reachability to its gateway and the DHCP server |
 | [Rapid Spanning Tree](labs/05-stp/README.md) | RSTP root port and forwarding states for VLAN 20 |
+| [Inter-VLAN Filtering with an ACL](labs/06-inter-vlan-acl/README.md) | HR-to-ADMIN filtering with continued server access |
 
 Each lab includes its objective, verification results, and screenshots from the simulation.
